@@ -1,0 +1,11 @@
+# Build output (CubeIDE and demo/build.bat)
+Debug/
+Release/
+demo/obj/
+demo/*.elf
+demo/*.hex
+demo/*.map
+
+# Editor and tool leftovers
+.vscode/
+hs_err_pid*.log
